@@ -6,3 +6,4 @@ const multiply = var1 * var2
 const random = Math.floor(Math.random() * 9999 ) + 1
 
 const mod = 16 % 6
+
