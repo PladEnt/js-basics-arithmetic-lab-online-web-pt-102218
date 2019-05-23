@@ -4,3 +4,4 @@ const var2 = 31
 const multiply = var1 * var2
 
 const random = Math.floor(Math.random() * 9999 ) + 1
+
