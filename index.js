@@ -7,3 +7,4 @@ const random = Math.floor(Math.random() * 9999 ) + 1
 
 const mod = 16 % 6
 
+const max = Math.max(0, 9, 11, 20)
