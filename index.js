@@ -1,2 +1,2 @@
 // Write your code here
-let counter = 0
+let multiply = 
