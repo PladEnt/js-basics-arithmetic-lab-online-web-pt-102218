@@ -1,2 +1,2 @@
 // Write your code here
-let multiply = 
+let multiply = var1 *
